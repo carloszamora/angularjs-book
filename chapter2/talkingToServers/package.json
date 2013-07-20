@@ -1,6 +1,6 @@
 {
   "name": "products-server",
-  "description": "serves produts for sale!",
+  "description": "serves products for sale!",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
